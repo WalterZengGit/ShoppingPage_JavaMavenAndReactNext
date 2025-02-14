@@ -1,4 +1,4 @@
-# 🚀 ShoppingPage_MavenAndNuxt Full Stack Project
+# 🚀 ShoppingPage_JavaMavenAndReactNext Full Stack Project
 
 This is a full-stack web application based on **Spring Boot (backend) and Next.js (frontend)**, designed according to the provided Figma layout.
 
